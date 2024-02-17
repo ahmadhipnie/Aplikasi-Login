@@ -1,3 +1,3 @@
 # Aplikasi-Login
 
-ini adalah branch development untuk melatih conflict merge
+ini adalah latihan untuk merge conflict agar saya bisa dan tau github
